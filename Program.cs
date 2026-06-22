@@ -1,6 +1,7 @@
 ﻿using System;
 
 namespace SIG_O;
+//Este es el menu lol lol
 
 public class Program
 {
