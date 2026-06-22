@@ -1,4 +1,5 @@
 ﻿using System;
+//Nombres de los estudiantes: Davis Zepeda, David Silva, William Hawkings
 
 namespace SIG_O;
 //Este es el menu lol lol
